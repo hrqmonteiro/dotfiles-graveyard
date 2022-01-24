@@ -1,0 +1,52 @@
+#+TITLE: Tasks
+
+* ﮅ INBOX
+- [ ] Arrumar Diretor Financeiro Máquinas Monteiro
+- [ ] Site Credimais - Elementor
+- [ ] Mykyc - Rafael Steinfeld
+* 留 TODAY
+** TODO Instagram [1/19]
+SCHEDULED: <2021-11-22 Mon 22:00>
+- [X] Post início do dia
+- [ ] Enquete (ver post Copfy)
+- [ ] Memes
+- [ ] Conteúdo com fundo stories (DevHub, ThanosJS)
+- [ ] Caixinha
+- [ ] Post Feed
+- [ ] Postar nos grupos do Facebook (até 18h30)
+- [ ] Traduzir um post em inglês e outro em espanhol, e postar nos grupos
+- [ ] Post feed (ver post salvo de "Post Perfeito")
+- [ ] Storie "Rotina" - coisas que uso todo dia
+- [ ] Qualificar público
+- [ ] Caixinha
+- [ ] 20 stories
+** TODO Consumir Conteúdo [0/6]
+SCHEDULED: <2021-11-22 Mon 22:00>
+- [ ] Ícaro
+- [ ] Ítalo
+- [ ] Lara
+- [ ] Pedro Fontes
+- [ ] Lucas Maciel
+*  UPCOMING
+*  ANYTIME
+** Clients
+*** Máquinas Monteiro [33%]
+- [X] Trocar hospedagem
+- [ ] Trocar e-mail p/ gmail
+- [ ] Refatorar página inicial
+- [ ] Rodapé
+- [ ] Seção clientes
+- [X] Gerar link de cartão de crédito
+** Portfolio
+*** Tasks [0/1]
+- [ ] Make
+
+*  SOMEDAY
+** Github [2/7]
+- [X] Readme
+- [X] Atualizar Informações
+- [ ] Spotify Listening Now
+- [ ] Upar dotfiles
+- [ ] Repositórios
+- [ ] Atualizar tema Joplin
+- [ ] Criar DogeMart

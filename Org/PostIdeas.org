@@ -1,0 +1,41 @@
+#+TITLE: Ideas
+
+* Posts Titles
+- Highest Paying Programming Languages
+- Google Tricks to Save Your Time
+- What Is Web Accessibility
+- Repositórios Úteis de Programação
+- Sites Úteis para JavaScript
+  - javascript.info
+  - ztm
+  - javascript-questions
+  - frontend-interview-handbook
+  - 33-js-concepts
+- Tech Stacks Comuns
+- Alternativas OpenSource
+
+* Profiles
+- StringThread
+- ProgrammerNest
+- GamaCoders
+- CodingGoats
+- CodingDen
+- FlowCompany
+- Girl.coding
+- TigerCodes
+- Coder__Bhai
+- TechTalkHq
+
+* Web Dev
+** Front-End
+*** Animations
+- [ ] SVGArtista
+*** CSS
+- [ ] CSS Grid Generator
+- [ ] Cubic Bezier Generator
+- [ ] Keyframe Animations
+- [ ] CSS Complex Shapes
+- [ ] GlassMorphism.com
+- [ ] GetWaves
+- [ ] Blob SVG Generator
+- [ ] WebCode Tools

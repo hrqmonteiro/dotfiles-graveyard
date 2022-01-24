@@ -1,0 +1,51 @@
+#+TITLE: Busca
+
+* Enviados
+** Dezembro
+- FourSys:     React                 (Front-End)    Remoto,  SP
+- Visie:       Vue + Node            (Full-Stack)   Remoto,  SP
+** Janeiro
+- Ez.devs      React + Node          (Full-Stack)   Remoto,  SP
+- IT Universe                                       Híbrida, SP
+- AllEasy      React + Node + Elixir (Full-Stack)   Remoto,  SP
+- Maeztra      React + Node + Vtex   (Full-Stack)   Remoto,  SP
+- GigaServices Ruby  + React         (Full-Stack)   Remoto,  SP
+- Guaraná      React + Node          (Full-Stack)   Remoto,  Montreal
+- DeltaOmega   React                 (Front-End)    Remoto,  SP
+- WebJump      React + Node          (Full-Stack)   Remoto,  SP
+- Navita       Vue                   (Front-end)    Remoto,  SP
+
+** Em aberto:
+- FourSys
+- Visie
+- EzDevs
+- AllEasy
+- Maestra
+- Personal Headhunter
+- GigaServices
+- Guarana
+- DeltaOmega
+- WebJump
+- G5
+- Catwalk
+- LolDesign
+- Constructor
+
+** Resultados:
+- IT Universe - Recusado
+- Navita - Recusado
+- GFT - Recusado
+- Spread - Recusado
+
+
+* Propostas
+- I9TY
+  - PJ:  Full-Time  R$6000,00
+- Minu
+  - CLT: Full-Time  R$6000,00 + uma porrada de benefícios
+- JMB
+  - PJ:  Full-Time  R$40/Hora = R$7040,00
+- NTT Data
+  - CLT: Full-Time  R$4000,00
+- Visie
+  - CLT: Full-Time  R$4500,00

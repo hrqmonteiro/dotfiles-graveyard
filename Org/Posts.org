@@ -1,0 +1,92 @@
+#+TITLE: Posts
+
+* Organização do Feed
+- Direta: Reels/IGTV/YT [Idealmente vídeos, ou fotos {colorido}]
+- X Bibliotecas/Projetos/Repositórios/Etc [Colorido]
+- Esquerda: Introduções [Amarelo]
+* Cronograma
+** TODO Posts da Semana
+* Scratchpad
+- Variar o retangulo ao redor da palavra em destaque (sublinhado, curly, curva, etc)
+- "Não tá a fim de ter que pagar a API do Google Maps pros seus projetos? Aqui está uma alternativa"
+- "Nitidamente o melhor X (framework, pacote, etc)"
+- Desktops Linux menos conhecidos - Trinity
+- 20 Web Apps em Vanilla JS
+- Sites para receber doacoes por projetos open-source (Ko-Fi, etc)
+- Libs para trabalahr com data no JS (date-fns, etc)
+- Tipos de Sites
+- Bibliotecas Drag and Drop em JS
+- Criar um curso com Enter the: Axios, Redux etc
+- Ícaro só não gosta de criptomoedas pois o Charlie Munger disse
+- Templates bootstrap https://www.instagram.com/p/CSftCYNqP5B/
+- Youtube é feito com: https://www.instagram.com/p/CSg4zZUB241/
+- Hello World em varias linguagens de programacao
+- APIs que todo mundo deveria tentar https://www.instagram.com/p/CRx2SAnLd_H/
+- https://www.instagram.com/p/CPuQq5qjRYB/
+- https://www.instagram.com/p/CSXjGPul3XU/
+- Recursos para aprender Vue https://www.instagram.com/p/CSoouvvFhAZ/
+- Git aliases https://www.instagram.com/p/B5c1wPXFABx/
+- Melhores livros https://www.instagram.com/p/CSqAPfZM5ag/
+- https://www.instagram.com/p/CSpktbztU4W/
+- Sites de mockups https://www.instagram.com/p/CSt8GgLLXEu/
+- Banco de dados usados por empresas
+- Canais para aprender programacao https://www.instagram.com/p/CS2r3_bj7h8/
+- Popular Tech Stacks
+** Enquetes
+- Qual editor usa?
+- Qual OS usa?
+* Posts em Ordem
+** Introduções
+*** Desenvolvimento Web
+- [ ] Introdução ao Desenvolvimento Web
+- [ ] Introdução HTML
+- [ ] Introdução CSS
+- [ ] Introdução JS
+* Posts em Reels
+- [ ] Animista
+* Posts em IGTV
+* Posts TODO
+** TODO Sites para Pesquisa
+- [ ] SearchCode
+- [ ] SymbolHound
+- [ ] OpenHub.net
+** TODO HTML
+- [ ] Tags HTML que você não conhece
+- [ ] Repos p/ Front-End
+- [ ] Repos p/ Back-End [RealWorld, App Ideas, Build your Own X, Storybook, sei la]
+- [ ] Front-End Checklist
+- [ ] Back-End Checklist
+- [ ] Editores Online (PlayCode, etc)
+- [ ] Aristóteles
+- [ ] Termos que todo front-end deve conhecer (Modal, OffCanvas, Wireframe, Boilerplate, MVC, etc.)
+- [ ] Tecnologias Full-Stack
+- [ ] Websites vs WebApps
+- [ ] Static x Dinamic x JAMStack
+- [ ] Exemplos de sites de cada Stack
+- [ ] Conteúdos NodeJS
+- [ ] Jogos CSS
+- [ ] Jogos Grid e Flex
+- [ ] Coisas que uso todo dia
+- [ ] Animista
+- [ ] RevealJs, ImpressJs, etc
+** TODO
+** TODO Extensões CSS
+- [ ] PageRuler
+- [ ] CSSViewer
+- [ ] JSONViewer
+- [ ] Wappalyzer
+- [ ] CheckMyLinks
+* Stories TODO
+** Repositórios GitHub
+** Apps
+** Apps Android/iOS
+** Linux
+** Windows
+* Stories
+- [ ] Criar fundo p/ stories
+- [ ] Recomendações de cursos
+- [ ] Post Copfy sobre rotina de stories
+* Grupos
+- [ ] Telegram
+- [ ] Discord
+* Fazer um resumo de toda tecnologia, e criar um TL;DR no final

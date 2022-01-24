@@ -1,0 +1,130 @@
+#+TITLE: Ideas
+
+* FrontEnd
+** CSS
+- [ ] Patterns.css
+- [ ] Epic Spinners
+- [ ] WebGradients
+** Icons
+- [ ] EOS Icons
+- [ ] Space Icons
+- [ ] Icotar
+- [ ] Icon Bros
+- [ ] IconStore
+- [ ] Icon Duck
+- [ ] Iconoir
+- [ ] HealthIcons
+- [ ] Emblemicons
+- [ ] icons8.com/fugue
+- [ ] Flagpack
+** Frameworks
+- [ ] Frameworks Web
+- [ ] Frameworks (que não são Bulma, Materialize e CSS) - Unnamed framework
+- [ ] WindiCSS
+** Outros
+- [ ] Shortcuts.Designs
+- [ ] Bancos de Imagens grátis (Pexels, Unsplash)
+- [ ] WickedBackgrounds
+- [ ] Quest - Figma to HTML
+- [ ] Coolors
+- [ ] AppLaunchpad Mockups
+- [ ] ReallyGood UX
+- [ ] Ray.so
+- [ ] Unscreen + Remove.bg
+- [ ] Facebook Design
+- [ ] Blush.Design
+- [ ] ColourLovers
+- [ ] SmartMockups
+- [ ] Khagwal
+- [ ] BootStarters
+- [ ] Gradient Cards - CSS Gears
+** Ilustrações
+- [ ] Humaaaans
+- [ ] Undraw
+- [ ] MixKit.co
+- [ ] DrawKit
+- [ ] Coverr.co
+** Inspiration
+- [ ] Lapa.Ninja
+- [ ] Checklist.Design
+** SVG
+- [ ] Svg Gobbler
+- [ ] Blobbb.fun
+* React [0/8]
+- [ ] Introdução ao React
+- [ ] React-Icons
+- [ ] React-Use
+- [ ] Viewport Scroll Animation
+- [ ] Preact
+- [ ] InfernoJS
+- [ ] simpleParallax
+- [ ] SweetAlert2
+- [ ] Spinners React
+- [ ] React 95
+- [ ] React Guitar
+* Vue
+- [ ] Introdução ao Vue
+- [ ] Vue Formulate
+- [ ] ReactiveSearch
+- [ ] VueFullPage
+* NextJs
+- [ ] React vs Next
+* Vídeos YouTube
+- Criar o mesmo projeto em React e Vue
+- Piores fontes monospace
+- NodeOS
+- Mostrar temas GTK
+- DEs, WMs, Distro pearOS e LinuxFX
+* Programação
+- [ ] Algoritmos que você deve saber
+- [ ] Diferença entre Git e Github
+- [ ] SearchCode
+- [ ] SymbolHound
+- [ ] URI Online Judge
+- [ ] CodeWell
+- [ ] CodeClimate
+- [ ] CodeShare
+* Outros [2/24]
+- [ ] WhatRuns - Extension
+- [ ] Devhub
+- [ ] Taskbook - npm package
+- [ ] Alternativas ao FireBase
+- [ ] Cheat.sh
+- [ ] Dev Fonts
+- [ ] Colorschemes
+- [ ] Learn-anything.xyz
+- [ ] Alternativa ao Postman
+- [ ] Principais softwares utilizando as linguagens
+- [ ] Mostrar a personalização no Linux (diferentes Desktops, WMs, temas, ícones)
+- [ ] Temas GitHub
+- [ ] Instalar MacOS via docker
+- [ ] Debloat Windows 10
+- [ ] Transforme sua aba vazia do navegador uma página útil
+- [ ] Tema escuro do Instagram na web
+- [ ] GitHub File Icons
+- [ ] Octotree
+- [ ] Github Reader
+* Memes [0/2]
+- Sempre postar com @hrqmonteiro na imagem
+- Comparar a instalação de programas no windows e no linux, com o meme do cara negro abrindo a mão
+* Curiosidades
+- [ ] UserInterfaceMuseum
+* OpenSource
+- [ ] WeKan
+- [ ] Mattermost
+- [ ] Zazu - alternative to Alfred
+- [ ] Projetos Open-Source Brasileiros
+* Design
+- [ ] Unblast
+- [ ] Illustration
+* Divisão do Conteúdo Instagram
+- 2 arrasta pra cima por dia p/ um No-Brainer
+- 40 stories por dia 
+- 2 feeds por semana
+- 60% Técnico
+- 30% Sentimentais
+- 10% Cômico -  Válvula de Escape Emocional
+- 15% dos conteúdos são depoimentos
+** ANTES DA ERA DA INTERNET, SER IGNORANTE ERA DESCULPÁVEL.
+A maioria das crianças por volta dos 12 anos percebe que a Luta Livre é combinada, mas a maioria dos adultos
+ainda não conseguem perceber exatamente a mesma coisa sobre o sistema bipartidário.

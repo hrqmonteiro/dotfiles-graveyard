@@ -1,0 +1,20 @@
+#+TITLE: Dividas
+
+* Janeiro
+** Casa
+- [ ] 02/01 Água R$35,00
+- [ ] 15/01 Net R$240,98
+- [ ] 15/01 Aluguel R$700,00
+- [ ] 18/01 Luz R$192,47
+- [ ] 25/01 Academia R$238,00
+** Henrique
+- [ ] 13/01 Casas Bahia R$1031,22
+- [ ] 20/01 Maurílio R$300,00
+- [ ] 27/01 Nubank R$542,14
+** Camila
+- [ ] 15/01 FIES R$130,00
+- [ ] 20/01 Austa R$198,00
+- [ ] 25/01 C6 Bank R$1358,67
+- [ ] 25/01 Inter R$973,33
+- [ ] 26/01 Nubank R$485,74
+- [ ] 30/01 Itaú R$2119,24
