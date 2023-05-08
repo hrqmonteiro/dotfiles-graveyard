@@ -1,0 +1,20 @@
+add_newline = false
+
+[line_break]
+disabled = true
+
+[aws]
+disabled = true
+
+[battery]
+full_symbol = ""
+charging_symbol = ""
+discharging_symbol = ""
+
+[[battery.display]]
+threshold = 30
+style = "bold red"
+
+[character]
+error_symbol = "[](bold red)"
+success_symbol = "[](bold green)"
