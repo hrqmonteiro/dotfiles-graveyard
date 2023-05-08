@@ -19,6 +19,7 @@ source "$HOME/.cargo/env"
 #    tmux attach -t default || tmux new -s default
 #fi
 
+alias config="/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME"
 alias ls="exa --color=always --group-directories-first --icons"
 alias ll="exa -l --color=always --group-directories-first --icons"
 alias la="exa -la --color=always --group-directories-first --icons"
