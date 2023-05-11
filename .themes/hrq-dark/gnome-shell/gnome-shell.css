@@ -1,0 +1,78 @@
+stage {
+  font-size: 10pt;
+}
+
+.clock {
+  font-weight: 500;
+  margin: 0 8px 0 0;
+  padding: 0;
+}
+
+.clock-display-box {
+  margin: 0;
+  padding: 0;
+}
+
+.dash-background {
+  background: rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(138, 148, 162, 0.2);
+}
+
+.panel-button {
+  font-weight: 400;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+.panel-status-indicators-box {
+  margin: 0;
+  padding: 0;
+}
+
+.panel-status-menu-box {
+  margin: 0 4px 0 0;
+  padding: 0;
+}
+
+.show-apps .show-apps-icon {
+  color: transparent !important;
+  background-image: url("assets/view-app-grid.svg");
+  background-size: contain;
+}
+
+.show-apps .overview-icon, .show-apps .show-apps-icon {
+  color: transparent !important;
+}
+
+.system-status-icon {
+  margin: 0;
+  padding: 0;
+}
+
+.tophat-monitor {
+  margin-right: 4px;
+}
+
+.tophat-panel-icon {
+  padding-right: 4px;
+}
+
+.desktop-name-label {
+  font-weight: 500;
+}
+
+#panelActivities {
+  font-weight: 500;
+  margin: 0 0 0 8px;
+}
+
+#appMenu {
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+}
+
+#dashtodockDashContainer {
+  border-radius: 25px;
+}
