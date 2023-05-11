@@ -1,0 +1,36 @@
+calibre	com.calibre_ebook.calibre	6.17.0	stable	flathub	system
+Foliate	com.github.johnfactotum.Foliate	2.6.4	stable	flathub	system
+Pods	com.github.marhkb.Pods	1.1.1	stable	flathub	system
+Clapper	com.github.rafostar.Clapper	0.5.2	stable	flathub	system
+Spotify	com.spotify.Client	1.2.9.743.g85d9593d	stable	flathub	system
+Element	im.riot.Riot	1.11.30	stable	flathub	system
+Beekeeper Studio	io.beekeeperstudio.Studio	3.9.8	stable	flathub	system
+PeaZip	io.github.peazip.PeaZip	9.2.0	stable	flathub	system
+peazip i386 addon	io.github.peazip.PeaZip.Addon.i386	1.0.0	stable	flathub	system
+Syncthing GTK	me.kozec.syncthingtk	v0.9.4.5	stable	flathub	system
+Joplin	net.cozic.joplin_desktop	2.9.17	stable	flathub	system
+Fedora Platform	org.fedoraproject.Platform	38	f38	fedora	system
+Freedesktop Platform	org.freedesktop.Platform	22.08.11	22.08	flathub	system
+Mesa	org.freedesktop.Platform.GL.default	23.0.2	22.08	flathub	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	23.0.2	22.08-extra	flathub	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		22.08	flathub	system
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		22.08	flathub	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.2.0	flathub	system
+Freedesktop SDK	org.freedesktop.Sdk	22.08.11	22.08	flathub	system
+Extensions	org.gnome.Extensions	44.0	stable	fedora	system
+Geary	org.gnome.Geary	43.0	stable	flathub	system
+Lollypop	org.gnome.Lollypop	1.4.37	stable	flathub	system
+GNOME Application Platform version 43	org.gnome.Platform		43	flathub	system
+GNOME Application Platform version 44	org.gnome.Platform		44	flathub	system
+adw-gtk3 Gtk Theme	org.gtk.Gtk3theme.adw-gtk3		3.22	flathub	system
+adw-gtk3-dark Gtk Theme	org.gtk.Gtk3theme.adw-gtk3-dark		3.22	flathub	system
+Inkscape	org.inkscape.Inkscape	1.2.2	stable	flathub	system
+Adwaita theme	org.kde.KStyle.Adwaita		5.15-22.08	flathub	system
+KDE Application Platform	org.kde.Platform		5.15-22.08	flathub	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-22.08	flathub	system
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-22.08	flathub	system
+qBittorrent	org.qbittorrent.qBittorrent	4.5.2	stable	flathub	system
+Telegram Desktop	org.telegram.desktop	4.8.1	stable	flathub	system
+Telegram Desktop Webview Add-on	org.telegram.desktop.webview	2.40.1	stable	flathub	system
+Wez's Terminal Emulator	org.wezfurlong.wezterm	20230408-112425-69ae8472	stable	flathub	system
+Cider	sh.cider.Cider	v1.5.9	stable	flathub	system
